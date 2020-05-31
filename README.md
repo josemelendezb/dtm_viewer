@@ -8,4 +8,4 @@ Every time you change the selected topic, the set of words associated with it is
 
 If a word disappears for an interval of time it does not necessarily mean that it was not used, it could be that it was not used enough to appear in the top 100
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josemelendezb/dtm_viewer.git/master)
+To render the notebook click in [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josemelendezb/dtm_viewer.git/master)
