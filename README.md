@@ -7,3 +7,5 @@ Hold down the shift or control key to select more than one word at a time
 Every time you change the selected topic, the set of words associated with it is loaded
 
 If a word disappears for an interval of time it does not necessarily mean that it was not used, it could be that it was not used enough to appear in the top 100
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/josemelendezb/dtm_viewer.git/master?filepath=https%3A%2F%2Fgithub.com%2Fjosemelendezb%2Fdtm_viewer%2Fblob%2Fmaster%2FAppGraphTopics.ipynb)
